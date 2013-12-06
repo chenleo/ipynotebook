@@ -1,0 +1,14 @@
+ipython nbconvert --to slides --post serve FFT_View_Data.ipynb 
+[NbConvertApp] Using existing profile dir: u'/home/chen/.ipython/profile_default'
+[NbConvertApp] Converting notebook FFT_View_Data.ipynb to slides
+[NbConvertApp] Support files will be in FFT_View_Data_files/
+[NbConvertApp] Loaded template slides_reveal.tpl
+[NbConvertApp] Writing 1186389 bytes to FFT_View_Data.slides.html
+[NbConvertApp] Redirecting reveal.js requests to https://cdn.jsdelivr.net/reveal.js/2.4.0
+Serving your slides at http://127.0.0.1:8000/FFT_View_Data.slides.html
+Use Control-C to stop this server
+WARNING:tornado.access:404 GET /custom.css (127.0.0.1) 0.39ms
+WARNING:tornado.access:404 GET /custom.css (127.0.0.1) 0.34ms
+WARNING:tornado.access:404 GET /custom.css (127.0.0.1) 0.31ms
+WARNING:tornado.access:404 GET /custom.css (127.0.0.1) 0.32ms
+
